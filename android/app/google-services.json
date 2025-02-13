@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362374082564",
+    "project_id": "mycokepushnotification",
+    "storage_bucket": "mycokepushnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362374082564:android:67b4ea1983f8e8a8b78551",
+        "android_client_info": {
+          "package_name": "com.mycoke360.android.cona.perf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_CavBpyFpOOOVhCBw2rZO0E3Oo5w4S7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
